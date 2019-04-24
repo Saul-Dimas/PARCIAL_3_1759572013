@@ -1,0 +1,10 @@
+E:\Utec\PROGRAM 1\Unidad 3\PARCIAL_3\WindowsFormsparcial_3\WindowsFormsparcial_3\bin\Debug\WindowsFormsparcial_3.exe.config
+E:\Utec\PROGRAM 1\Unidad 3\PARCIAL_3\WindowsFormsparcial_3\WindowsFormsparcial_3\bin\Debug\WindowsFormsparcial_3.exe
+E:\Utec\PROGRAM 1\Unidad 3\PARCIAL_3\WindowsFormsparcial_3\WindowsFormsparcial_3\bin\Debug\WindowsFormsparcial_3.pdb
+E:\Utec\PROGRAM 1\Unidad 3\PARCIAL_3\WindowsFormsparcial_3\WindowsFormsparcial_3\obj\Debug\WindowsFormsparcial_3.csprojResolveAssemblyReference.cache
+E:\Utec\PROGRAM 1\Unidad 3\PARCIAL_3\WindowsFormsparcial_3\WindowsFormsparcial_3\obj\Debug\WindowsFormsparcial_3.Form1.resources
+E:\Utec\PROGRAM 1\Unidad 3\PARCIAL_3\WindowsFormsparcial_3\WindowsFormsparcial_3\obj\Debug\WindowsFormsparcial_3.Properties.Resources.resources
+E:\Utec\PROGRAM 1\Unidad 3\PARCIAL_3\WindowsFormsparcial_3\WindowsFormsparcial_3\obj\Debug\WindowsFormsparcial_3.csproj.GenerateResource.Cache
+E:\Utec\PROGRAM 1\Unidad 3\PARCIAL_3\WindowsFormsparcial_3\WindowsFormsparcial_3\obj\Debug\WindowsFormsparcial_3.exe
+E:\Utec\PROGRAM 1\Unidad 3\PARCIAL_3\WindowsFormsparcial_3\WindowsFormsparcial_3\obj\Debug\WindowsFormsparcial_3.pdb
+E:\Utec\PROGRAM 1\Unidad 3\PARCIAL_3\WindowsFormsparcial_3\WindowsFormsparcial_3\obj\Debug\WindowsFormsparcial_3.Form2.resources
